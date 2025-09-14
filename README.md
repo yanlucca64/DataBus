@@ -1,0 +1,3 @@
+O projeto DataBus, desenvolvido para a ClickBus, tem como objetivo transformar dados brutos em insights estratégicos para apoiar decisões de negócio. A solução realiza o tratamento dos dados por meio de processos de ETL em Python, aplica modelos preditivos com Random Forest para prever a recompra em até sete dias, segmentar clientes e recomendar destinos, e integra os resultados em um dashboard interativo no Power BI. 
+
+Dessa forma, a ClickBus passa a contar com uma ferramenta capaz de personalizar campanhas, aumentar a fidelização, reduzir custos de aquisição e melhorar a experiencia do usuário, fortalecendo sua posição competitiva e inovadora no mercado.
